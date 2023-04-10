@@ -1,4 +1,4 @@
-# Spatiotemporal pRF demo
+# Spatiotemporal pRF 
 Demo for spatiotemporal pRF mapping 
 
 Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
@@ -17,7 +17,7 @@ To generate and solve spatiotemporal pRF, there are three pRF models currently i
 - Delayed Normalization spatiotemporal (DN-ST)
 - Compressive spatiotemporal (CST)
 
-
+## Implementation
 ---------------------------------------------
 The demo follows three steps:
 
