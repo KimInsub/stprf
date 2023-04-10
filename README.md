@@ -41,7 +41,7 @@ Compare the ground truth and predicted timecourses for each model, and plot the 
 
 ## Paper
 
-* Code to regenrate figures [Link](https://github.com/vistalab/PRFmodel)
+* Code to regenerate figures in the paper [Link](https://github.com/vistalab/PRFmodel)
 
 ## References
 Dumoulin, S. O., & Wandell, B. A. (2008). Population receptive field estimates in human visual cortex. Neuroimage, 39(2), 647-660.
