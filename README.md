@@ -10,15 +10,20 @@ Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
 - Vistasoft [Link](https://example.com)
 
 
-## Demo
-To generate and solve spatiotemporal pRF, there are three pRF models currently implemented:
+## pRF models
 
-- Spatial (Dumoulin & Wandell, 2008)
+We implemented two spatiotemporal pRF models
 - Delayed Normalization spatiotemporal (DN-ST)
 - Compressive spatiotemporal (CST)
 
+Spatial pRF
+- Spatial (Dumoulin & Wandell, 2008)
+
+
+## Demo
+
 ### Synthetic timecourse generation
-It takes stimulus information and a JSON file as input and generates synthetic timecourses for the three different pRF models (spatial, DN-ST, and CST).
+The software takes stimulus information and a JSON file as input and generates synthetic timecourses for the three different pRF models: `spatial`, `DN-ST`, and `CST`.
 
 ### Solve pRF models
 Solve the parameters for each model. Synthetic timecourses generated for each model are solved by the same model.
