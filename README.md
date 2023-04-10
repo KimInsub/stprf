@@ -17,8 +17,6 @@ To generate and solve spatiotemporal pRF, there are three pRF models currently i
 - Delayed Normalization spatiotemporal (DN-ST)
 - Compressive spatiotemporal (CST)
 
-## Demo
-
 The demo follows three steps:
 
 1. Synthetic timecourse generation.
@@ -29,6 +27,12 @@ Solve the parameters for each model. Synthetic timecourses generated for each mo
 
 3. Check performance
 Compare the ground truth and predicted timecourses for each model, and plot the results.
+
+#### stimulus
+
+#### JSON
+
+#### models
 
 
 ## References
