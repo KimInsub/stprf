@@ -16,13 +16,13 @@ Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
 
 ## Demo
 
-### Synthetic timecourse generation
-The software takes stimulus information and a JSON file as input and generates synthetic timecourses for the three different pRF models: `spatial`, `DN-ST`, and `CST`.
+### (1) Synthetic timecourse generation
+The software takes stimulus information and a JSON file as input and generates synthetic timecourses with noise for the three different pRF models: `spatial`, `DN-ST`, and `CST`.
 
-### Solve pRF models
+### (2) Solve pRF models
 Solve the parameters for each model. Synthetic timecourses generated for each model are solved by the same model.
 
-### Check performance
+### (3) Check performance
 Compare the ground truth and predicted timecourses for each model, and plot the results.
 
 #### stimulus
