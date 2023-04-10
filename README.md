@@ -11,8 +11,8 @@ Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
 
 
 ## Implemented pRF models
+<img src="doc/models.png " width="700">
 
-![alt text](doc/models.png "Spatiotemporal pRF model")
 
 ## Demo
 
