@@ -12,7 +12,7 @@ Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
 
 ## pRF models
 
-We implemented two spatiotemporal pRF models
+Spatiotemporal pRF models
 - Delayed Normalization spatiotemporal (DN-ST)
 - Compressive spatiotemporal (CST)
 
