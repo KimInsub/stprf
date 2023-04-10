@@ -1,7 +1,8 @@
 # Spatiotemporal pRF demo
 Demo for spatiotemporal pRF mapping 
 
-Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux). 
+Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
+
 Contact: Insub Kim (insubkim@stanford.edu)
 
 ## Dependencies
