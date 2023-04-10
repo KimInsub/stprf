@@ -10,7 +10,7 @@ Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
 - Vistasoft [Link](https://example.com)
 
 
-## pRF models
+## Implemented pRF models
 
 Spatiotemporal pRF models
 - Delayed Normalization spatiotemporal (DN-ST)
