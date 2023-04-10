@@ -10,23 +10,20 @@ Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
 - Vistasoft [Link](https://example.com)
 
 
-## Demo overview
+## Demo
 To generate and solve spatiotemporal pRF, there are three pRF models currently implemented:
 
 - Spatial (Dumoulin & Wandell, 2008)
 - Delayed Normalization spatiotemporal (DN-ST)
 - Compressive spatiotemporal (CST)
 
-
-The demo follows three steps:
-
-1. Synthetic timecourse generation.
+### Synthetic timecourse generation
 It takes stimulus information and a JSON file as input and generates synthetic timecourses for the three different pRF models (spatial, DN-ST, and CST).
 
-2. Solve
+### Solve pRF models
 Solve the parameters for each model. Synthetic timecourses generated for each model are solved by the same model.
 
-3. Check performance
+### Check performance
 Compare the ground truth and predicted timecourses for each model, and plot the results.
 
 #### stimulus
@@ -39,7 +36,7 @@ Compare the ground truth and predicted timecourses for each model, and plot the 
 
 ## Paper
 
-* Code to regenrate figures
+* Code to regenrate figures [Link](https://github.com/vistalab/PRFmodel)
 
 ## References
 Dumoulin, S. O., & Wandell, B. A. (2008). Population receptive field estimates in human visual cortex. Neuroimage, 39(2), 647-660.
