@@ -17,8 +17,8 @@ To generate and solve spatiotemporal pRF, there are three pRF models currently i
 - Delayed Normalization spatiotemporal (DN-ST)
 - Compressive spatiotemporal (CST)
 
-## Implementation
----------------------------------------------
+## Demo
+
 The demo follows three steps:
 
 1. Synthetic timecourse generation.
@@ -30,9 +30,8 @@ Solve the parameters for each model. Synthetic timecourses generated for each mo
 3. Check performance
 Compare the ground truth and predicted timecourses for each model, and plot the results.
 
----------------------------------------------
 
-References
+## References
 Dumoulin, S. O., & Wandell, B. A. (2008). Population receptive field estimates in human visual cortex. Neuroimage, 39(2), 647-660.
 
 Lerma-Usabiaga, G., Benson, N., Winawer, J., & Wandell, B. A. (2020). A validation framework for neuroimaging software: The case of population receptive fields. PLoS computational biology, 16(6), e1007924.
