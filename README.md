@@ -1,21 +1,22 @@
 # Spatiotemporal pRF 
-Demo for spatiotemporal pRF mapping 
-
-Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
 
 Contact: Insub Kim (insubkim@stanford.edu)
 
 ## Dependencies
+Scripts were developed and validated using MATLAB 2020b (Mac OS/Linux).
+
 - SpatiotemporalpRF [Link](https://example.com)
 - PRFmodels [Link](https://github.com/vistalab/PRFmodel)
 - Vistasoft [Link](https://example.com)
 
-## Overview
+
+## Demo overview
 To generate and solve spatiotemporal pRF, there are three pRF models currently implemented:
 
 - Spatial (Dumoulin & Wandell, 2008)
 - Delayed Normalization spatiotemporal (DN-ST)
 - Compressive spatiotemporal (CST)
+
 
 The demo follows three steps:
 
@@ -34,6 +35,11 @@ Compare the ground truth and predicted timecourses for each model, and plot the 
 
 #### models
 
+
+
+## Paper
+
+* Code to regenrate figures
 
 ## References
 Dumoulin, S. O., & Wandell, B. A. (2008). Population receptive field estimates in human visual cortex. Neuroimage, 39(2), 647-660.
