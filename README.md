@@ -19,6 +19,7 @@ Spatiotemporal pRF models
 Spatial pRF
 - Spatial (Dumoulin & Wandell, 2008)
 
+![alt text](doc/models.png "Spatiotemporal pRF model")
 
 ## Demo
 
